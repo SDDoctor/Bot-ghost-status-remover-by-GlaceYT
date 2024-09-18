@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Self-Custody Chog Wallet"];
+const statusMessages = ["STAY SAFE","STAY OUT"];
 
 
 let currentIndex = 0;
