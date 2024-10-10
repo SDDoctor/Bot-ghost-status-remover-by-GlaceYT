@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["STAY SAFE","STAY OUT"];
+const statusMessages = ["United Nations RolePlay"];
 
 
 let currentIndex = 0;
