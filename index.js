@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["United Nations RolePlay"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
